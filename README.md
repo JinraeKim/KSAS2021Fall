@@ -44,3 +44,6 @@ everything should work out of the box, including correctly finding local paths.
 - [x] Interactive plotting for presentation.
 - [x] Add time slider and plot a multicopter figure
 - [x] NED to ENU
+
+## Notes
+- (Private) For the private repo for conference papers, see [this repo](https://github.com/JinraeKim/KSAS2021Fall_Paper).
